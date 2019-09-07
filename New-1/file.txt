@@ -1,0 +1,1 @@
+Write,a,program,with,Static,Functions,to,do,Merge,Sort,of,list 
